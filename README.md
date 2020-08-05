@@ -8,3 +8,5 @@ We use t-SNE (t-distributed stochastic neighbour embedding) algorithm here to re
 ## Data
 This analysis was first created and written on [JoinQuant](https://www.joinquant.com/) research platform.  Data were gathered using [JQData API](https://www.joinquant.com/data).
 
+## Notebook
+See analysis [here](https://github.com/edgetrader/stock-similarity/blob/master/notebook/stock-similarity.ipynb).
